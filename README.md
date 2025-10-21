@@ -6,9 +6,9 @@
 An **interactive drum kit** built with **HTML, CSS, and JavaScript**.  
 Play beats using your **keyboard** or **mouse clicks** 🎶  
 
-[HTML Badge](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)  
-[CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)  
-[JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
+![HTML Badge](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)  
+![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)  
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
 
 ---
 
@@ -20,13 +20,6 @@ Play beats using your **keyboard** or **mouse clicks** 🎶
 ✅ Fun animations on key press  
 
 ---
-
-## 🎮 Demo  
-
-🚀 Try it live here: *[Add GitHub Pages link]*  
-
-![Demo Screenshot](images/demo.png)  
-*(Replace with your actual screenshot or GIF)*  
 
 ---
 
@@ -94,7 +87,6 @@ Contributions are always welcome!
 ## 📜 License
 
 📝 Distributed under the **MIT License**.
-See [LICENSE](LICENSE) for details.
 
 ---
 
