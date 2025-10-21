@@ -1,15 +1,14 @@
 ## README.md
 
-```markdown
+
 # 🥁 Drum Music Web App  
 
 An **interactive drum kit** built with **HTML, CSS, and JavaScript**.  
 Play beats using your **keyboard** or **mouse clicks** 🎶  
 
-![HTML Badge](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)  
-![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)  
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
-
+![HTML Badge](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ---
 
 ## 🌟 Features  
