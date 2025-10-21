@@ -18,13 +18,6 @@ Play beats using your **keyboard** or **mouse clicks** 🎶
 
 ---
 
-## 🎮 Demo  
-
-🚀 Try it live here: *[Add GitHub Pages link]*  
-
-![Demo Screenshot](images/demo.png)  
-*(Replace with your actual screenshot or GIF)*  
-
 ---
 
 ## ⚡ Tech Stack  
@@ -89,7 +82,6 @@ Contributions are always welcome!
 ## 📜 License
 
 📝 Distributed under the **MIT License**.
-See [LICENSE](LICENSE) for details.
 
 ---
 
